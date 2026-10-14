@@ -113,3 +113,7 @@ total 19M
 -rw-r--r-- 1 devops devops 18M Oct 14 09:41 demo-0.0.1-SNAPSHOT.jar
 -rw-r--r-- 1 devops devops 4.2K Oct 14 09:41 demo-0.0.1-SNAPSHOT-plain.jar
 ```
+
+## 4. Ảnh chụp màn hình
+
+![Phần Summary trên tab Actions hiển thị artifact app-jar](images/actions-artifact-summary.png)
