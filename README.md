@@ -116,4 +116,4 @@ total 19M
 
 ## 4. Ảnh chụp màn hình
 
-![Phần Summary trên tab Actions hiển thị artifact app-jar](images/actions-artifact-summary.png)
+![Phần Summary trên tab Actions hiển thị artifact app-jar](image.png)
